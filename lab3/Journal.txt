@@ -1,0 +1,11 @@
+20:08:17,883 root INFO Admin entered
+20:09:14,146 root INFO User entered
+20:13:41,797 root INFO Admin entered
+20:15:15,606 root INFO Admin entered
+20:16:23,208 root INFO Admin entered
+20:16:28,372 root INFO Running command pwd
+20:16:37,804 root INFO Running command ls
+20:17:11,70 root WARNING !!!!!!!! Get the admin !!!!!!!!
+20:17:11,71 root INFO Running command sudo
+20:18:37,871 root INFO User entered
+20:18:48,565 root INFO Running command pwd
